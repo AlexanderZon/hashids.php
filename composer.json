@@ -1,5 +1,5 @@
 {
-	"name": "AlexanderZon/hashids",
+	"name": "alexanderzon/hashids",
 	"type": "library",
 	"description": "Fork from hashids/hashids: Generate hashids like YouTube or Bitly from numbers to obfuscate your database primary ids, or navigate to the right shard.",
 	"keywords": ["hashids", "hashid", "hash", "ids", "youtube", "bitly", "encrypt", "decrypt", "obfuscate"],
