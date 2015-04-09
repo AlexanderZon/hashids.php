@@ -137,7 +137,7 @@ Changelog
 
 **2.0.0**:
 
-- The decode function will return an string or integer when you gives to the encode only one element (thanks [@bpahan](https://github.com/ivanakimov/hashids.php/issues/35))
+- The decode function will return an string or integer when you gives to the encode only one element (thanks [@AlexanderZon](https://github.com/ivanakimov/hashids.php/issues/35))
 
 **1.0.5**:
 
