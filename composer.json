@@ -15,7 +15,7 @@
 			"name": "AlexanderZon",
 			"email": "amontenegro.sistemas@gmail.com",
 			"homepage": "https://alexismontenegro.com.ve"
-		},
+		}
 	],
 	"require": {
 		"php": ">=5.3.0"
