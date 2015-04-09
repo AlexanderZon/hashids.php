@@ -18,7 +18,7 @@ You can install Hashids thru [Composer](http://getcomposer.org) (packagist has [
 ``` json
 {
     "require": {
-        "alexanderzon/hashids": "1.0.*@dev"
+        "alexanderzon/hashids": "2.0.*"
     }
 }
 ```
