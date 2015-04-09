@@ -278,8 +278,10 @@ class Hashids implements HashGenerator {
 			}
 			
 		}
+	
+		if(count($ret) == 1) return $ret[0];
 		
-		return $ret;
+		else return $ret;
 		
 	}
 	
