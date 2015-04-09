@@ -1,7 +1,7 @@
 {
-	"name": "hashids/hashids",
+	"name": "AlexanderZon/hashids",
 	"type": "library",
-	"description": "Generate hashids like YouTube or Bitly from numbers to obfuscate your database primary ids, or navigate to the right shard.",
+	"description": "Fork from hashids/hashids: Generate hashids like YouTube or Bitly from numbers to obfuscate your database primary ids, or navigate to the right shard.",
 	"keywords": ["hashids", "hashid", "hash", "ids", "youtube", "bitly", "encrypt", "decrypt", "obfuscate"],
 	"homepage": "http://hashids.org/php",
 	"license": "MIT",
@@ -10,7 +10,12 @@
 			"name": "Ivan Akimov",
 			"email": "ivan@barreleye.com",
 			"homepage": "https://twitter.com/IvanAkimov"
-		}
+		},
+		{
+			"name": "AlexanderZon",
+			"email": "amontenegro.sistemas@gmail.com",
+			"homepage": "https://alexismontenegro.com.ve"
+		},
 	],
 	"require": {
 		"php": ">=5.3.0"
